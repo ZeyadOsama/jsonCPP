@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="contributions-welcome-orange"/>
 </p>
 
-C++ JSON **```(*.json)```** parser.
+C++ JSON **```(*.json)```** Parser.
 
 ## Usage
 In your  **```CMakeLists.txt```** file add these lines
